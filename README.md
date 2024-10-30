@@ -1,4 +1,4 @@
-# Astro Image Autocaption Component
+# Astro Auto-Caption Image Component
 
 # Table of Contents
 1. [Installation](#installation)
