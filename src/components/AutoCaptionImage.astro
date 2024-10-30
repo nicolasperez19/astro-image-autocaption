@@ -1,0 +1,38 @@
+---
+import { Image } from 'astro:assets';
+import { replicate } from '../lib/replicate';
+
+interface Props {
+    src: string;
+    alt?: string;
+    width: number;
+    height: number;
+}
+
+// Async function to get alt caption if none is provided
+async function fetchAltCaption(imageUrl: string) {
+  try {
+    const { text: altCaption } = await replicate.run(
+      "rmokady/clip_prefix_caption:9a34a6339872a03f45236f114321fb51fc7aa8269d38ae0ce5334969981e4cd8",
+      {
+        input: {
+          image: imageUrl,
+          model: "coco",
+          use_beam_search: false
+        }
+      }
+    );
+    return altCaption;
+  } catch (error) {
+    console.error("Error fetching caption from Replicate:", error);
+    return "Image description not available";
+  }
+}
+
+const {src, alt, width, height} = Astro.props;
+
+// Generate the image URL for Replicate captioning if alt is missing
+// const imageUrl = src); // Replace with actual URL generation if dynamic
+const altText = alt || await fetchAltCaption(src);
+---
+<Image src={src} width={width} height={height} alt={altText} />
