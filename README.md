@@ -1,5 +1,10 @@
 # Astro Image Autocaption Component
 
+# Table of Contents
+1. [Installation](#installation)
+2. [Running the project](#running-the-project)
+3. [Project structure](#project-structure)
+
 ## 💾 Install the Project
 To install the project, clone the git repo and install the dependencies by running the following commands in your terminal:
 ```sh
