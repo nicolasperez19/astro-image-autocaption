@@ -1,5 +1,19 @@
 # Astro Image Auto-Caption Component
 
+
+If you would like to cite this project, please use the following BibTeX entry:
+
+```bibtex
+@misc{astro_image_autocaption,
+  author = {Kavish Soam},
+  title = {Astro Image Autocaption},
+  year = {2024},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/kavishsoam/astro-image-autocaption}},
+  note = {Version 1.1.0},
+}
+
 # Table of Contents
 1. [Installation](#installation)
 2. [Running the project](#running-the-project)
