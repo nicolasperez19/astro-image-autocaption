@@ -10,7 +10,7 @@ If you would like to cite this project, please use the following BibTeX entry:
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/kavishsoam/astro-image-autocaption}},
+  howpublished = {\url{https://github.com/nicolasperez19/astro-image-autocaption}},
   note = {Version 1.1.0},
 }
 ```
