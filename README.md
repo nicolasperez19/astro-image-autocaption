@@ -1,5 +1,7 @@
 # Astro Image Auto-Caption Component
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/nico_perez)
+
 # Table of Contents
 1. [Installation](#installation)
 2. [Running the project](#running-the-project)
