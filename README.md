@@ -13,6 +13,7 @@ If you would like to cite this project, please use the following BibTeX entry:
   howpublished = {\url{https://github.com/kavishsoam/astro-image-autocaption}},
   note = {Version 1.1.0},
 }
+```
 
 # Table of Contents
 1. [Installation](#installation)
