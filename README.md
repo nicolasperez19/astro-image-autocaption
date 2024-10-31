@@ -5,7 +5,7 @@ If you would like to cite this project, please use the following BibTeX entry:
 
 ```bibtex
 @misc{astro_image_autocaption,
-  author = {Kavish Soam},
+  author = {Nicolas Perez},
   title = {Astro Image Autocaption},
   year = {2024},
   publisher = {GitHub},
