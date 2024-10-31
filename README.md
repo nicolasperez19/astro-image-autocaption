@@ -1,19 +1,8 @@
 # Astro Image Auto-Caption Component
 
-
-If you would like to cite this project, please use the following BibTeX entry:
-
-```bibtex
-@misc{astro_image_autocaption,
-  author = {Nicolas Perez},
-  title = {Astro Image Autocaption},
-  year = {2024},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/nicolasperez19/astro-image-autocaption}},
-  note = {Version 1.1.0},
-}
-```
+![GitHub stars](https://img.shields.io/github/stars/nicolasperez19/astro-image-autocaption?style=for-the-badge)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-red?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/nicolasperez19)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/nico_perez)
 
 # Table of Contents
 1. [Installation](#installation)
@@ -61,3 +50,19 @@ Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page
 There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
 
 Any static assets, like images, can be placed in the `public/` directory.
+
+## 📝 Citation
+
+If you would like to cite this project, please use the following BibTeX entry:
+
+```bibtex
+@misc{astro_image_autocaption,
+  author = {Nicolas Perez},
+  title = {Astro Image Autocaption},
+  year = {2024},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/nicolasperez19/astro-image-autocaption}},
+  note = {Version 1.1.0},
+}
+```
