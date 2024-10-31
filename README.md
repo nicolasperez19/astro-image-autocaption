@@ -1,5 +1,7 @@
 # Astro Image Auto-Caption Component
 
+![GitHub stars](https://img.shields.io/github/stars/user/repo?style=social)
+
 # Table of Contents
 1. [Installation](#installation)
 2. [Running the project](#running-the-project)
