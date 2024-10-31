@@ -1,6 +1,6 @@
 # Astro Image Auto-Caption Component
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-red?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/kavishsoam)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-red?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/nicolasperez19)
 
 
 # Table of Contents
