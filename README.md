@@ -1,6 +1,5 @@
 # Astro Image Auto-Caption Component
 
-![GitHub stars](https://img.shields.io/github/stars/user/repo?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/nicolasperez19/astro-image-autocaption?style=social)
 
 # Table of Contents
