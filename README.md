@@ -1,5 +1,6 @@
 # Astro Image Auto-Caption Component
 
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-red?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/nicolasperez19)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/nico_perez)
 
 # Table of Contents
