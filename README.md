@@ -51,6 +51,10 @@ There's nothing special about `src/components/`, but that's where we like to put
 
 Any static assets, like images, can be placed in the `public/` directory.
 
+## 🤝 Acknowledgments
+
+Hats off to [Kavish Soam](https://github.com/kavishsoam) for making valuable contributions to the documentation!
+
 ## 📝 Citation
 
 If you would like to cite this project, please use the following BibTeX entry:
